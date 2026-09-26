@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi，I am Zhiqiao Kang
+-----
+# Currently enrolled in M.Eng at UCLA
+The technology stack I am familiar with:
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=code_xml" />Programming Languages: Python, Java, JavaScript, SQL, Matlab
+AI / ML: PyTorch, TensorFlow, Keras, vLLM, LlaMA-Factory, Unsloth, MNE, OpenCV, Pandas, Mediapipe
+Web Development: Java Servlet, Spring Boot, React, Express.js, HTML / CSS
+Databases and Cloud: MySQL, PostgreSQL, Elasticsearch, AWS, GCP
+
 
 <!--
 **ZhiqiaoKang/ZhiqiaoKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
