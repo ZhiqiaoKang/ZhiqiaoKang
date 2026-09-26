@@ -1,4 +1,4 @@
-# 💫 Hi there, I'm Zhiqiao Kang!
+# 💫 Hi, I'm Zhiqiao Kang!
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=500&lines=M.Eng.+Student+%40+UCLA+%F0%9F%8D%8A;AI%2FML+%26+Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+System+%26+Smart+AI+%F0%9F%9A%80" alt="Typing SVG" />
