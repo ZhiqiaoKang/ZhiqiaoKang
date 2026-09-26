@@ -10,7 +10,7 @@
 - 🏫 **Education:** Pursuing M.Eng. at **UCLA** (University of California, Los Angeles) 🐻💙
 - 🔬 **Interests:** Machine Learning / LLM Fine-Tuning 🤖, Scalable Web Systems ⚡, & Data Engineering 📊
 - 🎯 **Current Focus:** Training & Fine-Tuning LLMs, Building Modern Microservices
-- 📫 **How to reach me:** [Email](mailto:your_email@ucla.edu) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com)
+- 📫 **How to reach me:** [Email](zhiqiao30051139@g.ucla.edu) | [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/zhiqiao-kang-111832400/)) | 
 
 ---
 
